@@ -5,6 +5,7 @@ The rise of hate crimes in recent years have impacted many people in the United 
 What can the government do to mitigate racially motivated hate crimes in the United States?
 ## Data Analysis
 Here are the Excel file for data analysis, the step-by-step descriptions of Excel data analysis, and Python file for data analysis.
+
 __Total incidents of reported hate crimes from 2015 to 2019__
 ![1](https://user-images.githubusercontent.com/78471393/117582698-a2145280-b146-11eb-9686-871b08269969.png)
 Over the last couple of years, there has been a steady increase in hate crimes. Between 2015 and 2019, there was a 25% increase in reported incidents of hate crimes; jumping from 5850 incidents in 2015 to 7314 incidents in 2019 according to the FBI Hate Crime Statistics.
