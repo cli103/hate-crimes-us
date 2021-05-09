@@ -5,7 +5,15 @@ The rise of hate crimes in recent years have impacted many people in the United 
 What can the government do to mitigate racially motivated hate crimes in the United States?
 ## Data Analysis
 Here are the Excel file for data analysis, the step-by-step descriptions of Excel data analysis, and Python file for data analysis.
-__Trendline total incidents 2015-2019, predictions for 2020 and 2021__
+__Total incidents of reported hate crimes from 2015 to 2019__
+![1](https://user-images.githubusercontent.com/78471393/117582698-a2145280-b146-11eb-9686-871b08269969.png)
+Over the last couple of years, there has been a steady increase in hate crimes. Between 2015 and 2019, there was a 25% increase in reported incidents of hate crimes; jumping from 5850 incidents in 2015 to 7314 incidents in 2019 according to the FBI Hate Crime Statistics.
+
+Using this data to generate a trendline. It is predicted that there will be an increase of 392.7 hate crimes year over year. The r squared value is 0.8402, indicating that the model accounts for 84% of the variability in the number of incidents of hate crimes year over year.
+![2](https://user-images.githubusercontent.com/78471393/117582706-ab9dba80-b146-11eb-8452-c1f071b1ced3.png)
+
+Using the model as a prediction, it is anticipated that around 7894 incidents will be reported in 2020 and 8286 incidents in 2021. 
+![4](https://user-images.githubusercontent.com/78471393/117582715-b8221300-b146-11eb-9f3e-de1b873ef7f3.png)
 
 __Incidents, offenses, and victims of racially motivated hate crimes from 2015 to 2019__
 
@@ -25,7 +33,10 @@ __The breakdown of hate crimes by bias from 2015 to 2019__
 
 The stacked bar graph shows the number of hate crime incidents broken down by the types of biases from 2015 to 2019. Other biases include disability, gender, gender identity and multiple-bias incidents. As shown in the graph, the majority of hate crimes are motivated by race, religion or sexual orientation. Also, more than half of hate crimes in any given year are motivated by race/ethnicity and ancestry. Since racial bias is the major reason contributing to hate crimes, there needs to be policies and measures in place that specifically target racial hate crimes.
 
-__Standardised Map of states with hate crime 2015-2019 gif - cathy__
+__Incidents of hate crime standardized by state population per 1,000,000 residents 2015-2019__
+<img width="814" alt="Screen Shot 2021-05-10 at 4 19 26 am" src="https://user-images.githubusercontent.com/78471393/117582762-edc6fc00-b146-11eb-875b-0de53cd4e5eb.png">
+
+These maps show the incidents of  hate crime in the US standardised by state population per 1,000,000 residents. The middle shade is the average across states which is around 25 hate crimes per state per year. The darker colors are higher than average and the lighter colours are below average. 
 
 __Locations of hate crimes__
 
