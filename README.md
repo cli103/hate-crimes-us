@@ -4,7 +4,7 @@ The rise of hate crimes in recent years have impacted many people in the United 
 ## Business Question
 What can the government do to mitigate racially motivated hate crimes in the United States?
 ## Data Analysis
-Here are the Excel file for data analysis, the step-by-step descriptions of Excel data analysis, and Python file for data analysis.
+Here are the Excel files for data analysis, the [step-by-step descriptions of Excel data analysis, and Python file for data analysis](https://github.com/cli103/hate-crimes-us/blob/main/step-by-step-instructions).
 
 __Total incidents of reported hate crimes from 2015 to 2019__
 ![1](https://user-images.githubusercontent.com/78471393/117582698-a2145280-b146-11eb-9686-871b08269969.png)
