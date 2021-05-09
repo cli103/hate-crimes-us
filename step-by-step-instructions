@@ -1,0 +1,31 @@
+
+Total incidents of reported hate crimes from 2015 to 2019
+1. Generate a line graph of the total incidents of hate crimes from 2015-2019
+2. Insert markers for the line graph
+3. Generate a trend line for the graph
+4. Display the trend line equation and r squared value
+5. Use the trend line equation to calculate the number of predicted incidents for 2020 and 2021
+6. Add the data for 2020 and 2021 to the graph
+7. Select the lines between 2019 to 2020 and 2020 to 2021 and change them to a dotted line
+8. Select the markers for 2020 and 2021 and select ‘no fill’
+
+Incidents, offenses, and victims of racially motivated hate crimes from 2015 to 2019
+The step-by-step python analysis can be accessed here. 
+
+Known offenders of hate crime by race from 2015 to 2019
+1. Insert a stacked bar graph with the year on the x-axis and count of hate crime incidents on the y-axis
+2. Clearly label the graph and legends
+
+Incidents of hate crime standardized by state population per 1,000,000 residents 2015-2019
+1. Insert data into Tableau
+2. Drag data for ‘State’ into the panel
+3. Drag data for ‘2015’ into the panel under colour
+4. Change the map to the world map display
+5. Change the colour in the colour panel to 5 stepped shades of red
+6. Change the legend to start at 0 and end with 50
+7. Repeat steps 3-6 for 2016-2019
+
+Locations of hate crimes
+1. Take an average of the incidents at each location from 2015 to 2019
+2. Insert filter, rearrange the averaged values in descending order, and include the averaged values larger than 100
+3. Make a bar graph of the averaged incident by location
