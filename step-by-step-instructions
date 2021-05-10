@@ -10,7 +10,7 @@ Total incidents of reported hate crimes from 2015 to 2019
 8. Select the markers for 2020 and 2021 and select ‘no fill’
 
 Incidents, offenses, and victims of racially motivated hate crimes from 2015 to 2019
-The step-by-step python analysis can be accessed here. 
+The step-by-step python analysis can be accessed here: https://github.com/cli103/hate-crimes-us/blob/main/Mini_Project_5.ipynb. 
 
 Known offenders of hate crime by race from 2015 to 2019
 1. Insert a stacked bar graph with the year on the x-axis and count of hate crime incidents on the y-axis
@@ -27,5 +27,7 @@ Incidents of hate crime standardized by state population per 1,000,000 residents
 
 Locations of hate crimes
 1. Take an average of the incidents at each location from 2015 to 2019
-2. Insert filter, rearrange the averaged values in descending order, and include the averaged values larger than 100
-3. Make a bar graph of the averaged incident by location
+2. Insert filter on the column header
+3. Rearrange the averaged values in descending order
+4. Only include averaged values that are larger than 100
+5. Make a bar graph of the averaged incident by location
