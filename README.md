@@ -11,8 +11,21 @@ We will be exploring the incidents of hate crimes, who they target and where the
 
 ## Business Question
 What can the government do to mitigate racially motivated hate crimes in the United States?
-## Data Analysis
+
+## Data Sources – Open Data
+[FBI Hate Crime Statistics](https://www.fbi.gov/services/cjis/ucr/publications#Hate-Crime%20Statistics)
+
+We collated the data from Table 11 of 2015 - 2019. The data from each of the relevant years can be found below:
+
+[2015](https://ucr.fbi.gov/hate-crime/2015)
+[2016](https://ucr.fbi.gov/hate-crime/2016)
+[2017](https://ucr.fbi.gov/hate-crime/2017)
+[2018](https://ucr.fbi.gov/hate-crime/2018)
+[2019](https://ucr.fbi.gov/hate-crime/2019)
+
 Here are the Excel files for [raw data](https://github.com/cli103/hate-crimes-us/blob/main/Hate%20Crimes%20Data.xlsx) and [data analysis](https://github.com/cli103/hate-crimes-us/blob/main/Hate%20Crimes%20Analysis.xlsx), the [step-by-step descriptions of Excel data analysis](https://github.com/cli103/hate-crimes-us/blob/main/step-by-step-instructions), and [Python file for data analysis](https://github.com/cli103/hate-crimes-us/blob/main/Mini_Project_5.ipynb).
+
+## Data Analysis
 
 __Total incidents of reported hate crimes from 2015 to 2019__
 ![1](https://user-images.githubusercontent.com/78471393/117582698-a2145280-b146-11eb-9686-871b08269969.png)
