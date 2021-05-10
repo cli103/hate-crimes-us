@@ -12,7 +12,7 @@ We will be exploring the incidents of hate crimes, who they target and where the
 ## Business Question
 What can the government do to mitigate racially motivated hate crimes in the United States?
 ## Data Analysis
-Here are the [Excel files](https://github.com/cli103/hate-crimes-us/blob/main/Hate%20Crimes%20Data.xlsx) for data analysis, the [step-by-step descriptions of Excel data analysis, and Python file for data analysis](https://github.com/cli103/hate-crimes-us/blob/main/step-by-step-instructions).
+Here are the Excel files for [raw data](https://github.com/cli103/hate-crimes-us/blob/main/Hate%20Crimes%20Data.xlsx) and [data analysis](https://github.com/cli103/hate-crimes-us/blob/main/Hate%20Crimes%20Analysis.xlsx), the [step-by-step descriptions of Excel data analysis](https://github.com/cli103/hate-crimes-us/blob/main/step-by-step-instructions), and [Python file for data analysis](https://github.com/cli103/hate-crimes-us/blob/main/Mini_Project_5.ipynb).
 
 __Total incidents of reported hate crimes from 2015 to 2019__
 ![1](https://user-images.githubusercontent.com/78471393/117582698-a2145280-b146-11eb-9686-871b08269969.png)
